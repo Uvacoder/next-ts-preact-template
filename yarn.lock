@@ -463,14 +463,14 @@ __metadata:
   linkType: hard
 
 "@mui/types@npm:^7.2.0":
-  version: 7.2.0
-  resolution: "@mui/types@npm:7.2.0"
+  version: 7.2.3
+  resolution: "@mui/types@npm:7.2.3"
   peerDependencies:
     "@types/react": "*"
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: a863140f2039c33fab7651e024f6ba277b282930b5b43e8a68c2339508a74fcedf15af2f0f46bafe276fb65ae0b44cd8a880e1f9a870d957f61457b59709ecba
+  checksum: b8511cb78f8df25c8978317ad3fd585c782116b657f2d32233352c09d415c77040e532f41bbe96de6ad46be87138767d3129a9f0de3561900a9a64db7693bce4
   languageName: node
   linkType: hard
 
